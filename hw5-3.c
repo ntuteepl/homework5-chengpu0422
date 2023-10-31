@@ -10,7 +10,7 @@ int main()
    {
      int c;
      c=a*b;
-     printf("%d\n",c);
+     printf("%.1f\n",c);
    }
    if(a>60&&a<=120)
    {
