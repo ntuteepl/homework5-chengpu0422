@@ -8,7 +8,7 @@ int main()
 
    if(a<=60)
    {
-     int c;
+     double c;
      c=a*b;
      printf("%.1f\n",c);
    }
