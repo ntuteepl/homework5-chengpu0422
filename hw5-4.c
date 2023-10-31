@@ -20,6 +20,7 @@ int main()
    {
      printf("%.3f\n",c);
    }
+   }
    if(a<b)
    {
     e=(double)b-a;
@@ -33,6 +34,5 @@ int main()
     }
 
    }
-}
 }
 
